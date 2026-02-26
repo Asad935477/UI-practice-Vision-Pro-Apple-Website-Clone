@@ -5,7 +5,7 @@ This project is a clone of the Vision Pro Apple website. It is built using the f
 - **JavaScript**: Used for the dynamic behavior of the website.
 - **CSS**: Used for styling the website to match the original design.
 - **HTML**: Used for the structure of the website.
-- **GSAP**: Used for animation
+- **GSAP**: Used for adding animation
 
 ## Project Structure
 
